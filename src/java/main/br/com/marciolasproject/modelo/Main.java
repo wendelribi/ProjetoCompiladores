@@ -16,6 +16,7 @@ public class Main {
 		String homemMaisGatoDoMundo = "Wendellll";
 
 		System.out.println(mulherMaisGataDoMundo);
+		System.out.println(homemMaisGatoDoMundo);
 	}
 
 }
