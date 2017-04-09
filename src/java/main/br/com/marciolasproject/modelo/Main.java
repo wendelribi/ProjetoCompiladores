@@ -12,7 +12,8 @@ public class Main {
 		// e depois envia: git commit -m "algo sobre a alteração"
 		// e atualiza o repositorio: git push
 
-		String mulherMaisGataDoMundo = "Márcia Regina";
+		String mulherMaisGataDoMundo = "Márcia Regina kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk";
+		String homemMaisGatoDoMundo = "Wendellll";
 
 		System.out.println(mulherMaisGataDoMundo);
 	}
